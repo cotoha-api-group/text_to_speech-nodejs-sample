@@ -1,0 +1,21 @@
+{
+  "name": "cotoha_tts_nodejs_sample",
+  "version": "1.0.0",
+  "description": "Sample script for COTOHA API Text to Speech API for Nodejs",
+  "main": "sample_nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cotoha",
+    "api",
+    "tts"
+  ],
+  "author": "yamaken",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {}
+}
