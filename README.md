@@ -1,6 +1,6 @@
-COTOHA API 音声合成サンプルプログラム(Node.js)
+COTOHA 音声合成API サンプルコード(Node.js)
 ====
-一括音声合成APIを利用して、合成音声を保存したwavファイルを生成するNode.jsプログラムです。
+一括音声合成APIを利用して、合成音声を保存したwavファイルを生成するNode.jsコードです。
 
 # Usage
 1. コマンド`npm install`でパッケージをインストールしてください。
